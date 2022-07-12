@@ -1,7 +1,9 @@
-<img align="right" width="38%" height="590em" style="margin-top: 55px;" src="https://raw.githubusercontent.com/gist/thasuka/9a02ef8f68422a659995b070ac4308f8/raw/40361f212db78250306cb8760349649f0988df75/githubcard.svg" />
 
 <h1 align="left">console.log("seja bem-vindo, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">")</h1>
 
+
+
+<img align="right" width="38%" height="590em" style="margin-top: 55px;" src="https://raw.githubusercontent.com/gist/thasuka/9a02ef8f68422a659995b070ac4308f8/raw/40361f212db78250306cb8760349649f0988df75/githubcard.svg" />
 
 
 ## Principais tecnologias:
